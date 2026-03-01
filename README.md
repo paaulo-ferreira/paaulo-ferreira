@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Paulo Ferreira
+# 🔎 Paulo Ferreira
 
 **`SEO & AI Search Analyst`**
 
