@@ -2,7 +2,8 @@
 
 **`SEO & AI Search Analyst`**
 
-Meu interesse principal é engenharia reversa de busca e dados: entender como o Google / LLMs processam, renderizam e rankeiam conteúdos através de experimentos controlados, análise de logs de servidor e instrumentação de crawlers..
+Meu interesse principal é engenharia reversa de busca e dados: entender como o Google / LLMs processam, renderizam e rankeiam conteúdos através de experimentos controlados, análise de logs de servidor e instrumentação de crawlers.
+seocompaulo.com
 
 
 
